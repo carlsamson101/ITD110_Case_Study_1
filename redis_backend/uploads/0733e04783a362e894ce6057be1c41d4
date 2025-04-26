@@ -1,0 +1,4 @@
+id,firstName,lastName,middleInitial,street,purok,gender,age,birthDate,birthPlace,barangay,citizenship,civilStatus,religion,occupation,email,contactNumber,status
+4,Juan,Dela Cruz,M,Main St,Purok 1,Male,30,1994-05-15,Quezon City,Barangay 1,Filipino,Single,Catholic,Engineer,juan@email.com,9123456789,Active
+5,Maria,Santos,A,2nd Ave,Purok 2,Female,25,1999-08-22,Cebu City,Barangay 2,Filipino,Married,Christian,Teacher,maria@email.com,9234567890,Inactive
+6,Carlos,Reyes,B,3rd St,Purok 3,Male,40,1984-12-10,Davao City,Barangay 3,Filipino,Widowed,Islam,Doctor,carlos@email.com,9345678901,Active

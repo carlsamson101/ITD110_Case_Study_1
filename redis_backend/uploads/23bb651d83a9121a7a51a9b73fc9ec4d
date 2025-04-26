@@ -1,0 +1,4 @@
+id,firstName,lastName,Gender,Age,purok,Street,Email Address,Contact Number,status
+1,Juan,Dela Cruz,Male,30,Purok 1,Main St,juan@email.com,9123456789,Active
+2,Maria,Santos,Female,25,Purok 2,2nd Ave,maria@email.com,9234567890,Inactive
+3,Carlos,Reyes,Male,40,Purok 3,3rd Blvd,carlos@email.com,9345678901,Active
